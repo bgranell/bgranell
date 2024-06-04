@@ -2,8 +2,8 @@ Sóc el Bernat Granell Bertran, Economista per la Universitat Pompeu Fabra i act
 
 Simultàneament aprenc, a través de la plataforma Datacamp, Ciència de Dades amb R. En aquest perfil de GitHub podreu veure l'aplicació pràctica del que estic aprenent en una síntesi entre l'Avaluació de Polítiques Públiques, la Dinàmica de Sistemes i la programació.
 
-Les meves àrees d'interès són l'Economia Agraria, la gestió de Recursos Naturals i Canvi Climàtic.
-Tanmateix no defugeixo i gaudeixo dels temes purament sociològics.
+Les meves àrees d'interès són l'Economia Agraria, la Gestió de Recursos Naturals, l'Economia Energètica i la Història Econòmica.
+Tanmateix no defugeixo i gaudeixo molt del tracte de temes purament socioeconòmics, sempre aplicant una visió heterodoxa i empírica que defugeix de les teories irreconciliables amb la realitat.
 
 <!---
 bgranell/bgranell is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
